@@ -10,5 +10,5 @@ const reverseString = (string)=>{
   
   
 }
-let sample = "abc";
+let sample = "ffffcdsdf";
 console.log(reverseString(sample));
